@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gdrive://1Jk2O2xCvJ9JQHmogZwN3yfdgWAwLKv2c
+    url = gdrive://1OAltzNTdYKKSC6w81ddEYUlaTt8mEyER/dvcstore
