@@ -1,4 +1,8 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = gdrive://1OAltzNTdYKKSC6w81ddEYUlaTt8mEyER/dvcstore
+    gdrive_client_id = Won-ChulShin
+    gdrive_client_secret = 1q2w3e4r!
+['remote "myremote"']
+    url = s3://sagemaker-ap-northeast-2-172795051914/NER-data
